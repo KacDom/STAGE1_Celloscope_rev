@@ -1,5 +1,3 @@
-# STAGE1_Celloscope_rev
-
 ## Script names and article links to corresponding models:
 1. BayesPrism.ipynb - https://www.nature.com/articles/s43018-022-00356-3
 2. CABLE_compare_in_loop.R - https://www.nature.com/articles/s41587-021-00830-w
